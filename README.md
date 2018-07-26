@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Homework #2 bootstrap
+A responsive portfolio, using basic HTML and Bootstrap
